@@ -1,0 +1,140 @@
+﻿Industry,Key Skills Required,Skill Weight
+Technology,AI and Machine Learning,10
+Technology,Software Development,8
+Technology,Data Analysis,9
+Technology,Cybersecurity,9
+Technology,Cloud Computing,8
+Technology,IT Support,6
+Technology,Network Management,7
+Technology,Database Administration,7
+Technology,Web Development,7
+Technology,DevOps,8
+Technology,Blockchain,7
+Technology,UX/UI Design,6
+Technology,IT Project Management,9
+Technology,Mobile Development,7
+Technology,Virtualization,6
+Technology,Artificial Intelligence,10
+Manufacturing,Automation,8
+Manufacturing,Robotics,9
+Manufacturing,Quality Control,7
+Manufacturing,Process Management,7
+Manufacturing,Technical Drawing,6
+Manufacturing,Lean Manufacturing,8
+Manufacturing,Six Sigma,8
+Manufacturing,Supply Chain Management,9
+Manufacturing,Production Planning,9
+Manufacturing,CAD/CAM,7
+Manufacturing,Mechanical Engineering,8
+Manufacturing,Industrial Safety,7
+Manufacturing,CNC Programming,7
+Manufacturing,Operations Management,8
+Retail and Wholesale,Inventory Management,7
+Retail and Wholesale,Customer Relationship Management,7
+Retail and Wholesale,Sales Strategies,7
+Retail and Wholesale,E-commerce,8
+Retail and Wholesale,Market Analysis,7
+Retail and Wholesale,Supply Chain Optimization,9
+Retail and Wholesale,Marketing,7
+Retail and Wholesale,Merchandising,6
+Retail and Wholesale,Retail Operations,7
+Retail and Wholesale,Logistics,8
+Retail and Wholesale,Data Analytics,9
+Retail and Wholesale,Customer Service,6
+Retail and Wholesale,Business Development,7
+Healthcare,Clinical Skills,7
+Healthcare,Patient Care,7
+Healthcare,Health Informatics,8
+Healthcare,Medical Coding,7
+Healthcare,Telemedicine,8
+Healthcare,Healthcare Administration,7
+Healthcare,Public Health,7
+Healthcare,Nursing,8
+Healthcare,Pharmacology,7
+Healthcare,Medical Research,8
+Healthcare,Health Education,7
+Healthcare,Emergency Care,7
+Healthcare,Biostatistics,8
+Education,Curriculum Development,7
+Education,Educational Technology,8
+Education,Pedagogy,7
+Education,Special Education,7
+Education,Student Assessment,7
+Education,Classroom Management,7
+Education,E-learning,8
+Education,Instructional Design,7
+Education,Educational Psychology,7
+Education,Teacher Training,7
+Education,Research,7
+Education,Academic Writing,7
+Education,Education Policy,7
+Education,Child Development,7
+Finance and Accounting,Financial Analysis,8
+Finance and Accounting,Accounting Principles,7
+Finance and Accounting,Taxation,7
+Finance and Accounting,Financial Planning,7
+Finance and Accounting,Regulatory Compliance,7
+Finance and Accounting,Auditing,7
+Finance and Accounting,Budgeting,7
+Finance and Accounting,Investment Management,8
+Finance and Accounting,Risk Management,8
+Finance and Accounting,Corporate Finance,7
+Finance and Accounting,Financial Reporting,7
+Finance and Accounting,Payroll,6
+Finance and Accounting,Cost Accounting,7
+Finance and Accounting,Financial Modeling,8
+Construction and Real Estate,Project Management,8
+Construction and Real Estate,Civil Engineering,8
+Construction and Real Estate,Cost Estimation,7
+Construction and Real Estate,Health and Safety Compliance,7
+Construction and Real Estate,Structural Analysis,7
+Construction and Real Estate,Real Estate Development,7
+Construction and Real Estate,Property Management,7
+Construction and Real Estate,Architectural Design,7
+Construction and Real Estate,Surveying,7
+Construction and Real Estate,Urban Planning,7
+Construction and Real Estate,Construction Safety,7
+Construction and Real Estate,Environmental Engineering,7
+Construction and Real Estate,Building Codes,7
+Agriculture,Agronomy,7
+Agriculture,Agricultural Equipment Operation,6
+Agriculture,Sustainable Practices,7
+Agriculture,Soil Science,7
+Agriculture,Agricultural Economics,7
+Agriculture,Crop Management,7
+Agriculture,Livestock Management,7
+Agriculture,Horticulture,7
+Agriculture,Agribusiness,7
+Agriculture,Food Safety,7
+Agriculture,Organic Farming,7
+Agriculture,Agricultural Policy,7
+Agriculture,Irrigation Systems,7
+Agriculture,Pest Management,7
+Media and Entertainment,Content Creation,7
+Media and Entertainment,Digital Marketing,9
+Media and Entertainment,Video Production,7
+Media and Entertainment,Social Media Management,8
+Media and Entertainment,Public Relations,7
+Media and Entertainment,Copywriting,7
+Media and Entertainment,Graphic Design,7
+Media and Entertainment,Photography,6
+Media and Entertainment,Animation,7
+Media and Entertainment,Scriptwriting,7
+Media and Entertainment,Event Management,7
+Media and Entertainment,Media Planning,7
+Media and Entertainment,Broadcasting,7
+Media and Entertainment,Journalism,7
+Media and Entertainment,SEO,8
+Supply Chain and Transportation,Logistics Management,8
+Supply Chain and Transportation,Supply Chain Optimization,9
+Supply Chain and Transportation,Inventory Control,7
+Supply Chain and Transportation,Fleet Management,7
+Supply Chain and Transportation,Demand Forecasting,8
+Supply Chain and Transportation,Transportation Management,8
+Supply Chain and Transportation,Warehousing,7
+Supply Chain and Transportation,Procurement,7
+Supply Chain and Transportation,Import/Export,7
+Supply Chain and Transportation,Distribution,7
+Supply Chain and Transportation,Freight Management,7
+Supply Chain and Transportation,Logistics Analysis,8
+Supply Chain and Transportation,Supplier Relationship Management,7
