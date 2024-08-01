@@ -6,5 +6,4 @@ folium
 streamlit-folium
 scikit-learn
 plotly
-base64
 seaborn
