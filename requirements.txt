@@ -1,6 +1,10 @@
-folium
 streamlit
 pandas
-scikit-learn
+numpy
 matplotlib
+folium
 streamlit-folium
+scikit-learn
+plotly
+base64
+seaborn
